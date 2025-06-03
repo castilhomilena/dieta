@@ -1,0 +1,593 @@
+[
+  {
+    "nome": "Arroz branco cozido",
+    "calorias_p100g": 130,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Feijão carioca cozido",
+    "calorias_p100g": 76,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Feijão preto cozido",
+    "calorias_p100g": 70,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Macarrão cozido",
+    "calorias_p100g": 131,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Frango grelhado (peito)",
+    "calorias_p100g": 165,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Carne bovina (acém, cozida)",
+    "calorias_p100g": 250,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Carne moída (cozida)",
+    "calorias_p100g": 215,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Ovo de galinha inteiro",
+    "calorias_p100g": 155,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pão francês",
+    "calorias_p100g": 270,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pão de forma branco",
+    "calorias_p100g": 265,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pão integral",
+    "calorias_p100g": 250,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Manteiga",
+    "calorias_p100g": 717,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Queijo minas frescal",
+    "calorias_p100g": 280,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Queijo prato",
+    "calorias_p100g": 350,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Leite integral",
+    "calorias_p100g": 61,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Leite desnatado",
+    "calorias_p100g": 35,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Iogurte natural integral",
+    "calorias_p100g": 61,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Iogurte desnatado",
+    "calorias_p100g": 45,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Azeite de oliva",
+    "calorias_p100g": 884,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Milho cozido",
+    "calorias_p100g": 96,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Batata cozida",
+    "calorias_p100g": 87,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Batata frita",
+    "calorias_p100g": 312,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Cenoura crua",
+    "calorias_p100g": 41,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Cenoura cozida",
+    "calorias_p100g": 35,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Tomate cru",
+    "calorias_p100g": 18,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Alface",
+    "calorias_p100g": 15,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Cebola crua",
+    "calorias_p100g": 40,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Abobrinha cozida",
+    "calorias_p100g": 17,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pepino cru",
+    "calorias_p100g": 16,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Banana prata",
+    "calorias_p100g": 89,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Maçã",
+    "calorias_p100g": 52,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Laranja",
+    "calorias_p100g": 47,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Melancia",
+    "calorias_p100g": 30,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Mamão",
+    "calorias_p100g": 43,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Abacaxi",
+    "calorias_p100g": 50,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Açaí puro (sem açúcar)",
+    "calorias_p100g": 70,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Café preto sem açúcar",
+    "calorias_p100g": 2,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Coca-Cola (refrigerante normal)",
+    "calorias_p100g": 42,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Coca-Cola zero",
+    "calorias_p100g": 0,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Suco de laranja natural",
+    "calorias_p100g": 45,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Tapioca (goma hidratada)",
+    "calorias_p100g": 160,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Atum em conserva (água)",
+    "calorias_p100g": 100,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Atum em conserva (óleo)",
+    "calorias_p100g": 200,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Sardinha em lata",
+    "calorias_p100g": 208,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Linguiça calabresa",
+    "calorias_p100g": 300,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Presunto",
+    "calorias_p100g": 145,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Mortadela",
+    "calorias_p100g": 270,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Chocolate ao leite",
+    "calorias_p100g": 535,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Chocolate meio amargo",
+    "calorias_p100g": 500,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Açúcar refinado",
+    "calorias_p100g": 387,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Mel",
+    "calorias_p100g": 304,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Mandioca cozida",
+    "calorias_p100g": 160,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Polenta cozida",
+    "calorias_p100g": 70,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Farinha de mandioca",
+    "calorias_p100g": 350,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Farinha de trigo",
+    "calorias_p100g": 340,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Leite condensado",
+    "calorias_p100g": 321,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Creme de leite",
+    "calorias_p100g": 330,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Maionese",
+    "calorias_p100g": 680,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Mostarda",
+    "calorias_p100g": 66,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Molho de tomate",
+    "calorias_p100g": 29,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Café com leite",
+    "calorias_p100g": 40,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Iogurte de morango (adoçado)",
+    "calorias_p100g": 70,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Granola",
+    "calorias_p100g": 450,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Chá preto sem açúcar",
+    "calorias_p100g": 2,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Chá verde sem açúcar",
+    "calorias_p100g": 2,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Salsicha",
+    "calorias_p100g": 270,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Cerveja",
+    "calorias_p100g": 43,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Vinho tinto",
+    "calorias_p100g": 85,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Amendoim torrado",
+    "calorias_p100g": 567,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Castanha de caju",
+    "calorias_p100g": 553,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Castanha do Pará",
+    "calorias_p100g": 656,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Nozes",
+    "calorias_p100g": 654,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Leite em pó integral",
+    "calorias_p100g": 496,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Adoçante artificial (sucralose)",
+    "calorias_p100g": 0,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Requeijão cremoso",
+    "calorias_p100g": 160,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Biscoito cream cracker",
+    "calorias_p100g": 450,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Biscoito doce recheado",
+    "calorias_p100g": 480,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Sorvete de creme",
+    "calorias_p100g": 207,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pipoca estourada no óleo",
+    "calorias_p100g": 450,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Abacate",
+    "calorias_p100g": 160,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Ervilha cozida",
+    "calorias_p100g": 81,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Lentilha cozida",
+    "calorias_p100g": 116,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Grão de bico cozido",
+    "calorias_p100g": 164,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Aveia em flocos",
+    "calorias_p100g": 389,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Chuchu cozido",
+    "calorias_p100g": 19,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Brócolis cozido",
+    "calorias_p100g": 35,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Couve-flor cozida",
+    "calorias_p100g": 25,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Espinafre cozido",
+    "calorias_p100g": 23,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Beterraba cozida",
+    "calorias_p100g": 44,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Quiabo cozido",
+    "calorias_p100g": 33,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Abóbora cozida",
+    "calorias_p100g": 20,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pêssego",
+    "calorias_p100g": 39,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Goiaba",
+    "calorias_p100g": 68,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Manga",
+    "calorias_p100g": 60,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Morango",
+    "calorias_p100g": 32,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Uva",
+    "calorias_p100g": 69,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Água de coco",
+    "calorias_p100g": 19,
+    "porcao": "100ml"
+  },
+  {
+    "nome": "Tapioca recheada com queijo",
+    "calorias_p100g": 220,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Batata-doce cozida",
+    "calorias_p100g": 86,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Peixe (tilápia grelhada)",
+    "calorias_p100g": 128,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Peixe (salmão grelhado)",
+    "calorias_p100g": 206,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pizza calabresa",
+    "calorias_p100g": 280,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pizza mussarela",
+    "calorias_p100g": 270,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pizza marguerita",
+    "calorias_p100g": 250,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pizza portuguesa",
+    "calorias_p100g": 290,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Pizza quatro queijos",
+    "calorias_p100g": 310,
+    "porcao": "100g"
+  },
+  {
+    "nome": "Big Mac",
+    "calorias_p100g": 550,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "McChicken",
+    "calorias_p100g": 400,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "Cheeseburger",
+    "calorias_p100g": 300,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "Batata frita média",
+    "calorias_p100g": 340,
+    "porcao": "porção"
+  },
+  {
+    "nome": "McNuggets",
+    "calorias_p100g": 270,
+    "porcao": "6 unidades"
+  },
+  {
+    "nome": "Whopper",
+    "calorias_p100g": 660,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "Cheese Bacon Whopper",
+    "calorias_p100g": 780,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "Chicken Royale",
+    "calorias_p100g": 410,
+    "porcao": "unidade"
+  },
+  {
+    "nome": "Onion Rings",
+    "calorias_p100g": 350,
+    "porcao": "porção"
+  },
+  {
+    "nome": "Sushi de salmão",
+    "calorias_p100g": 40,
+    "porcao": "1 unidade"
+  },
+  {
+    "nome": "Sushi de atum",
+    "calorias_p100g": 42,
+    "porcao": "1 unidade"
+  },
+  {
+    "nome": "Sashimi salmão",
+    "calorias_p100g": 120,
+    "porcao": "100g"
+  }
+  
+]

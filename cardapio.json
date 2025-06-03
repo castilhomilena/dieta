@@ -1,0 +1,84 @@
+{
+  "refeicoes": {
+    "cafe_da_manha": [
+      {
+        "nome": "Pão com ovo",
+        "descricao": "2 fatias de pão com 1 ovo mexido",
+        "calorias": 250
+      },
+      {
+        "nome": "Iogurte com frutas",
+        "descricao": "Iogurte natural com banana e aveia",
+        "calorias": 180
+      },
+      {
+        "nome": "Café com leite e tapioca",
+        "descricao": "1 xícara de café com leite + 1 tapioca com queijo",
+        "calorias": 280
+      }
+    ],
+    "almoco": [
+      {
+        "nome": "Arroz, feijão e carne",
+        "descricao": "2 colheres de arroz, 1 concha de feijão, 100g de acém, salada",
+        "calorias": 480
+      },
+      {
+        "nome": "Macarrão com carne moída",
+        "descricao": "100g de macarrão + 80g carne moída + legumes",
+        "calorias": 500
+      },
+      {
+        "nome": "Salada com ovo e frango grelhado",
+        "descricao": "Mix de folhas + 2 ovos + 80g de frango",
+        "calorias": 320
+      }
+    ],
+    "lanche_da_tarde": [
+      {
+        "nome": "Sanduíche natural de frango",
+        "descricao": "2 fatias de pão, frango desfiado, cenoura, milho, iogurte",
+        "calorias": 280
+      },
+      {
+        "nome": "Torradas com requeijão light",
+        "descricao": "3 torradas com 1 colher de requeijão light + chá",
+        "calorias": 200
+      },
+      {
+        "nome": "Banana com pasta de amendoim",
+        "descricao": "1 banana + 1 colher de pasta de amendoim",
+        "calorias": 210
+      }
+    ],
+    "jantar": [
+      {
+        "nome": "Omelete com legumes",
+        "descricao": "2 ovos, tomate, cebola, cenoura ralada + 1 fatia de pão",
+        "calorias": 300
+      },
+      {
+        "nome": "Hambúrguer caseiro com salada",
+        "descricao": "1 hambúrguer de carne magra + alface, tomate + 1 pão",
+        "calorias": 350
+      },
+      {
+        "nome": "Sopa de legumes com frango",
+        "descricao": "Caldo de legumes com pedaços de frango e batata-doce",
+        "calorias": 270
+      }
+    ],
+    "ceia": [
+      {
+        "nome": "Iogurte ou leite morno",
+        "descricao": "1 copo de leite desnatado ou iogurte natural",
+        "calorias": 90
+      },
+      {
+        "nome": "Chá com biscoito integral",
+        "descricao": "1 xícara de chá + 2 biscoitos integrais",
+        "calorias": 110
+      }
+    ]
+  }
+}

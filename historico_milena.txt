@@ -1,0 +1,4 @@
+2025-06-03|Almoço|Macarrão cozido|100.0|131.0
+2025-06-03|Almoço|Carne bovina (acém, cozida)|80.0|200.0
+2025-06-03|Lanche da Tarde|Pão de forma branco|80.0|212.0
+2025-06-03|Lanche da Tarde|Frango grelhado (peito)|30.0|49.5
