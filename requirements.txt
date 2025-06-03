@@ -2,5 +2,5 @@ streamlit
 json
 datetime
 os
-matplotlib.
+matplotlib
 sefaultdict
