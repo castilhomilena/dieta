@@ -225,7 +225,7 @@ with tabs[2]:
                     salvar_alimentos(alimentos)
                     alimentos_dict[nome] = calorias_p100g
                     st.success(f"'{nome}' cadastrado com sucesso!")
-                    st.experimental_rerun()
+                    st.rerun()
             else:
                 st.error("Preencha os campos obrigatórios (*)")
 
